@@ -1,1 +1,1 @@
-# Inter Prediction in VVC
+# Inter Prediction
